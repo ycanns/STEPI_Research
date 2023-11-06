@@ -28,14 +28,14 @@
     <th>기업목록</th>
     <th>바로가기 링크</th>
   </tr>
-<tr><td>1</td><td>롯데그룹 </td><td><a href="https://ycanns.github.io/STEPI_Research/1_롯데그룹 Heatmap.html">1_롯데그룹 Heatmap.html</a></td></tr>
+<tr><td>1</td><td>롯데그룹 </td><td><a href="https://ycanns.github.io/STEPI_Research/1_롯데그룹Heatmap.html">1_롯데그룹 Heatmap.html</a></td></tr>
 <tr><td>2</td><td>현대자동차</td><td><a href="https://ycanns.github.io/STEPI_Research/2_현대자동차Heatmap.html">2_현대자동차Heatmap.html</a></td></tr>
-<tr><td>3</td><td>삼성전자 </td><td><a href="https://ycanns.github.io/STEPI_Research/3_삼성전자 Heatmap.html">3_삼성전자 Heatmap.html</a></td></tr>
+<tr><td>3</td><td>삼성전자 </td><td><a href="https://ycanns.github.io/STEPI_Research/3_삼성전자Heatmap.html">3_삼성전자 Heatmap.html</a></td></tr>
 <tr><td>4</td><td>현대모비스</td><td><a href="https://ycanns.github.io/STEPI_Research/4_현대모비스Heatmap.html">4_현대모비스Heatmap.html</a></td></tr>
 <tr><td>5</td><td>LG화학</td><td><a href="https://ycanns.github.io/STEPI_Research/5_LG화학Heatmap.html">5_LG화학Heatmap.html</a></td></tr>
 <tr><td>6</td><td>세방그룹</td><td><a href="https://ycanns.github.io/STEPI_Research/6_세방그룹Heatmap.html">6_세방그룹Heatmap.html</a></td></tr>
 <tr><td>7</td><td>LG전자</td><td><a href="https://ycanns.github.io/STEPI_Research/7_LG전자Heatmap.html">7_LG전자Heatmap.html</a></td></tr>
-<tr><td>8</td><td>한국과학기술연구원(KIST)</td><td><a href="https://ycanns.github.io/STEPI_Research/8_한국과학기술연구원(KIST)Heatmap.html">8_한국과학기술연구원(KIST)Heatmap.html</a></td></tr>
+<tr><td>8</td><td>한국과학기술연구원(KIST)</td><td><a href="https://ycanns.github.io/STEPI_Research/8_한국과학기술연구원(KIST)Heatmap.html">8_한국과학기술연구원(KIST)Heatmap.html</a></td></tr>
 <tr><td>9</td><td>LG에너지솔루션</td><td><a href="https://ycanns.github.io/STEPI_Research/9_LG에너지솔루션Heatmap.html">9_LG에너지솔루션Heatmap.html</a></td></tr>
 <tr><td>10</td><td>웹젠</td><td><a href="https://ycanns.github.io/STEPI_Research/10_웹젠Heatmap.html">10_웹젠Heatmap.html</a></td></tr>
 <tr><td>11</td><td>경동나비엔</td><td><a href="https://ycanns.github.io/STEPI_Research/11_경동나비엔Heatmap.html">11_경동나비엔Heatmap.html</a></td></tr>
